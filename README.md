@@ -1,12 +1,15 @@
 # KeqingCursor
+[Direct Download](https://github.com/NadieFiind/KeqingCursor/archive/refs/heads/main.zip) •
+[How To Use](https://github.com/NadieFiind/KeqingCursor/edit/main/README.md#how-to-use) •
+[Assets Sources](https://github.com/NadieFiind/KeqingCursor/edit/main/README.md#assets-sources)
+
 [Keqing](https://genshin-impact.fandom.com/wiki/Keqing) themed cursor available for Windows and Linux.
 Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/home).
 
 - Cursor files for Linux will be added soon.
 - Feel free to contribute to improve or add more cursor files. 
 
-### Preview
-...
+![Keqing Cursor Preview](Preview.png)
 
 ### How To Use
 ...
