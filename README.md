@@ -1,4 +1,6 @@
 # KeqingCursor
+Keqing themed cursor available for Windows and Linux.
+Keqing is a character from Genshin Impact.
 
 - Cursor files for Linux will be added soon.
 - Feel free to contribute to improve or add more cursor files. 
