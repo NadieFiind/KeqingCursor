@@ -1,5 +1,5 @@
 # KeqingCursor
-[Direct Download](https://github.com/NadieFiind/KeqingCursor/archive/refs/heads/main.zip) •
+[Download](https://github.com/NadieFiind/KeqingCursor/archive/refs/heads/main.zip) •
 [How To Use](#how-to-use) •
 [Assets Sources](#assets-sources)
 
@@ -12,7 +12,10 @@ Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/hom
 ![Keqing Cursor Preview](Preview.png)
 
 ### How To Use
-...
+#### Windows
+- Press `Windows + R` key on your keyboard.
+- Once the **Run** box opens, type `main.cpl` and press Enter.
+- Once the **Mouse Properties** window opens, click the **Pointers** tab.
 
 ### Color Palette for Default Cursors
 | Primary | Secondary |
