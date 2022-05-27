@@ -7,7 +7,7 @@
 Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/home).
 
 - Cursor files for Linux will be added soon.
-- Feel free to contribute to improve or add more cursor files. 
+- Feel free to contribute to improve or add more cursor files.
 
 ![Keqing Cursor Preview](Preview.png)
 
@@ -28,3 +28,5 @@ Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/hom
 - [Keqing - Thinking](https://genshin-impact.fandom.com/wiki/Keqing/Media?file=Icon_Emoji_Keqing_1.png)
 - [Keqing Hairpin](https://custom-cursor.com/en/collection/genshin-impact/genshin-keqing-hair-pin)
 - [Mistsplitter Reforged](https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Mistsplitter_Reforged_2nd_Ascension_Full_Icon.png/revision/latest/scale-to-width-down/250?cb=20210721035444)
+- [Keqing Hand](https://www.reddit.com/r/KeqingMains/comments/uqalji/did_this_a_while_back_let_me_know_what_you_guys/)
+- [Keqing Grabbing Hand](https://www.reddit.com/r/KeqingMains/comments/uswgkg/nonworking_day_for_keqing_by_%E8%8A%B1/)
