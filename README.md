@@ -6,9 +6,6 @@
 [Keqing](https://genshin-impact.fandom.com/wiki/Keqing) themed cursor available for Windows and Linux.
 Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/home).
 
-- Cursor files for Linux will be added soon.
-- Feel free to contribute to improve or add more cursor files.
-
 ![Keqing Cursor Preview](Preview.png)
 
 ### How To Use
@@ -16,6 +13,14 @@ Keqing is a character from [Genshin Impact](https://genshin.hoyoverse.com/en/hom
 - Press `Windows + R` key on your keyboard.
 - Once the **Run** box opens, type `main.cpl` and press Enter.
 - Once the **Mouse Properties** window opens, click the **Pointers** tab.
+
+#### Linux (Ubuntu)
+```bash
+sudo mkdir /usr/share/icons/KeqingCursor
+sudo mkdir /usr/share/icons/KeqingCursor/cursors
+sudo cp Linux/* /usr/share/icons/KeqingCursor/cursors
+```
+Use GNOME Tweaks to change your mouse cursor.
 
 ### Color Palette for Default Cursors
 | Primary | Secondary |
