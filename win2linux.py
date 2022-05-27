@@ -47,7 +47,7 @@ equiv: Dict[str, List[str]] = {
 # Check Windows files
 for dirname in os.listdir("Windows"):
 	if dirname not in equiv:
-		raise FileNotFoundError(f"'Windows/{dirname}' doesn't exist.")
+		raise Exception(f"'Windows/{dirname}' not available for conversion.")
 
 # Initialize Linux directory
 shutil.rmtree("Linux")
